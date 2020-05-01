@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlixOne.BookStore.ProductService.Tests", "FlixOne.BookStore.ProductService.Tests\FlixOne.BookStore.ProductService.Tests.csproj", "{F4128EBA-E228-4086-8F18-54AE21108A40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4128EBA-E228-4086-8F18-54AE21108A40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4128EBA-E228-4086-8F18-54AE21108A40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4128EBA-E228-4086-8F18-54AE21108A40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4128EBA-E228-4086-8F18-54AE21108A40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20FBF784-33F8-4826-92E9-4937EB34E118}
+	EndGlobalSection
+EndGlobal
